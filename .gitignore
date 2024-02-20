@@ -1,0 +1,4 @@
+.env
+venv
+app.log
+/data/*_evaluation_*
