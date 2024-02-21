@@ -2,3 +2,4 @@
 venv
 app.log
 /data/*_evaluation_*
+/utils/__pycache__/
